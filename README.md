@@ -1,3 +1,8 @@
+<div align="center">
+
+<img src="icons/icon128.png" width="120"/>
+
+</div>
 
 # 🎬 Youtube Wide Grid
 
@@ -45,13 +50,14 @@ git clone https://github.com/behungte123/Youtube-Wide-Grid.git
 ```
 ---
 
-**Bước 2 — Mở trang Extension
-```
+**Bước 2 — Mở trang Extension**
+
+```bash
 chrome://extensions/
 ```
 ---
 
-**Bước 3 — Load extension
+**Bước 3 — Load extension**
 
 👉 Load unpacked
 👉 Chọn thư mục project
@@ -59,7 +65,7 @@ chrome://extensions/
 
 ---
 
-🧠 Cách hoạt động
+## 🧠 Cách hoạt động
 
 Extension sử dụng:
 
@@ -71,8 +77,8 @@ Extension sử dụng:
 
 ---
 
-📁 Cấu trúc dự án
-```
+## 📁 Cấu trúc dự án
+```bash
 Youtube-Wide-Grid
 │
 ├── manifest.json
@@ -83,7 +89,7 @@ Youtube-Wide-Grid
 ```
 ---
 
-🔒 Quyền riêng tư
+## 🔒 Quyền riêng tư
 
 Extension cam kết:
 
@@ -94,7 +100,7 @@ Extension cam kết:
 
 ---
 
-🚀 Roadmap
+## 🚀 Roadmap
 
 * Tuỳ chỉnh số cột
 * Popup Settings UI
@@ -103,7 +109,7 @@ Extension cam kết:
 
 ---
 
-🤝 Đóng góp
+## 🤝 Đóng góp
 
 Bạn có thể đóng góp bằng cách:
 
@@ -114,10 +120,10 @@ Bạn có thể đóng góp bằng cách:
 
 ---
 
-⭐ Ủng hộ dự án
+## ⭐ Ủng hộ dự án
 
 Nếu project hữu ích:
-👉 Hãy Star repo để ủng hộ nhé!
+- Hãy Star repo để ủng hộ nhé!
 
 ---
 Made with ❤️ by Mạnh Hùng
