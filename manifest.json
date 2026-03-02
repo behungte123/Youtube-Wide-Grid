@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Wide Grid",
+  "version": "1.0.0",
+  "description": "Mở rộng layout YouTube - tùy chỉnh số video mỗi hàng (4, 5, 6, 7, 8+)",
+  "permissions": ["activeTab", "storage"],
+  "host_permissions": ["*://*.youtube.com/*"],
+  "content_scripts": [
+    {
+      "matches": ["*://*.youtube.com/*"],
+      "js": ["content.js"],
+      "css": ["content.css"],
+      "run_at": "document_start"
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
