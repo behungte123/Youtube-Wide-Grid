@@ -60,7 +60,9 @@ chrome://extensions/
 **Bước 3 — Load extension**
 
 👉 Load unpacked
+
 👉 Chọn thư mục project
+
 🎉 Extension sẵn sàng hoạt động!
 
 ---
